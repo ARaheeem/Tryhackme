@@ -1,5 +1,4 @@
 
-
 # 🛡️ TryHackMe Jr Penetration Tester Learning Path and Hack the Box challange
 
 # 👨‍💻 Cybersecurity Learning Log

@@ -24,7 +24,7 @@ Here are the modules I've completed so far:
 - **Net Sec Challange**: demenstrated passive and active reconnaissance, service and protocol enumeration ,credential brute-forcing and network-based exploitation methodology
 
 
-Hack the box challange:
+## Hack the box challange:
 
 🧠 Scenario
 As part of KPMG’s Hack the Box challenge, I performed a targeted white-box penetration test on a newly developed Windows-based web application designed for Covid QR-code result tracking. The engagement, scoped by a formal Rules of Engagement (RoE), aimed to simulate real-world attack scenarios without impacting operational continuity.The assessment involved manual and automated testing techniques to identify critical vulnerabilities in both infrastructure and application layers. The target environment included Apache HTTPD 2.4.46 running PHP/7.3.27, and the test incorporated reconnaissance, authentication bypass, and input validation checks under strict no-DoS constraints.

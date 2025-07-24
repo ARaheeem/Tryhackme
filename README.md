@@ -1,8 +1,13 @@
 
 
-# 🛡️ TryHackMe Jr Penetration Tester Learning Path
+# 🛡️ TryHackMe Jr Penetration Tester Learning Path and Hack the Box challange
 
-Welcome to my cybersecurity learning log! This repository documents hands-on labs and concepts I've completed through **TryHackMe**, focusing on foundational web security and reconnaissance techniques.
+# 👨‍💻 Cybersecurity Learning Log
+
+Welcome to my cybersecurity learning log! This repository showcases hands-on labs, challenges, and core concepts I've completed through **TryHackMe** and other sources, with a focus on developing and demonstrating my skills as an aspiring penetration tester. Each entry reflects real-world techniques, tools, and methodologies—including reconnaissance, exploitation, and post-exploitation—aligned with industry best practices and certification standards.
+
+🌐 This repo serves as a living portfolio of my progress and passion for ethical hacking, technical problem-solving, and continuous learning in the field of cybersecurity.
+
 
 ## ✅ Completed Modules
 

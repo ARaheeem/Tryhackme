@@ -17,3 +17,4 @@ Here are the modules I've completed so far:
 - 🗂️ **File Inclusion** – Exploiting local and remote file inclusion vulnerabilities.
 - 🌐 **Intro to SSRF (Server-Side Request Forgery)** – Forcing servers to make internal HTTP requests.
 - 💉 **SQL Injection** – Manipulating backend SQL queries to extract or modify database contents.
+- **Net Sec Challange**: demenstrated passive and active reconnaissance, service and protocol enumeration ,credential brute-forcing and network-based exploitation methodology
